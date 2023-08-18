@@ -1,7 +1,7 @@
 <hr/>
 <p align="center">My GitHub stats<br/><img src="https://github-profile-trophy.vercel.app/?username=Tjorven-Liebe&theme=darkhub&column=4&margin-w=15&margin-h=15"><br/>These stats are only applied to public repositories</p>
 <hr/>
-<img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="end"/>
+<img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="right"/>
 <img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 <hr/>
 <h2>My Discord</h2>
