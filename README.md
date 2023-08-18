@@ -6,7 +6,7 @@
 <p align="center">These stats include my private repositories</p>
 </dl></dd></dl></dl></dd></dl></dl></dd></dl>
 <p align="center">My Tech Stack:</p>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <hr/>
 <h2>My Discord</h2>
 <a href="https://discord.com/users/428284027519369217" target="_blank">tjorven_liebe</a>
