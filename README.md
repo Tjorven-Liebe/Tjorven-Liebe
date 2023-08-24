@@ -19,4 +19,4 @@
 <a href="https://discord.com/users/428284027519369217" target="_blank"><img alt="tjorven_liebe" float="left" src="https://img.shields.io/badge/Discord-tjorven_liebe-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <br/>
 tjorven_liebe
-a href="https://github.com/Tjorven-Liebe/Tjorven-Liebe/discussions/">Discussions!</a>
+<a href="https://github.com/Tjorven-Liebe/Tjorven-Liebe/discussions/">Discussions!</a>
