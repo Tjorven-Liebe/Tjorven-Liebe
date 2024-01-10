@@ -20,3 +20,5 @@
 <br/>
 tjorven_liebe<br/><br/>
 GitHub: <a href="https://github.com/Tjorven-Liebe/Tjorven-Liebe/discussions/">Discussions!</a>
+<hr>
+<center>[![](https://visitcount.itsvg.in/api?id=tjorven-liebe&label=Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)</center>
