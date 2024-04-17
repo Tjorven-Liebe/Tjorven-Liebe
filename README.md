@@ -1,7 +1,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=tjorven-liebe&label=Views&color=12&icon=5&pretty=false)](https://github.com/Tjorven-Liebe)
 <hr/>
-<p align="center">My GitHub stats<br/><br/><img src="https://github-profile-trophy.vercel.app/?username=Tjorven-Liebe&theme=darkhub&column=6&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequests,Reviews,Issues"><br/><br/>These stats only include my public repositories</p>
+<p align="center">My GitHub stats<br/><br/><img src="https://github-profile-trophy.vercel.app/?username=Tjorven-Liebe&theme=darkhub&column=6&margin-w=15&margin-h=15"><br/><br/>These stats only include my public repositories</p>
 <dl><dd><dl><dl><dd><dl><dl><dd><dl>
 <img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="right"/>
 <img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
