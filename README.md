@@ -1,5 +1,18 @@
 
 [![](https://visitcount.itsvg.in/api?id=tjorven-liebe&label=Views&color=12&icon=5&pretty=false)](https://github.com/Tjorven-Liebe)
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0006-5297-938X"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0006-5297-938X
+    </a>
 <hr/>
 <p align="center">My GitHub stats<br/><br/><a href="https://github.com/arasgungore/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tjorven-Liebe&theme=matrix&margin-w=15&margin-h=15&column=-1&no-bg=true&no-frame=true&rank=-C"></a><br/><br/>These stats only include my public repositories</p>
 <dl><dd><dl><dl><dd><dl><dl><dd><dl>
