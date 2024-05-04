@@ -1,14 +1,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=tjorven-liebe&label=Views&color=6&icon=6&pretty=false)](https://github.com/Tjorven-Liebe) <br/>
-<a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0006-5297-938X"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img src="https://img.shields.io/badge/My-ORCID-blue.svg?style=for-the-badge&"/>
-    </a>
+
 <hr/>
 <p align="center">My GitHub stats<br/><br/><a href="https://github.com/arasgungore/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tjorven-Liebe&theme=matrix&margin-w=15&margin-h=15&column=-1&no-bg=true&no-frame=true&rank=-C"></a><br/><br/>These stats only include my public repositories</p>
 <dl><dd><dl><dl><dd><dl><dl><dd><dl>
@@ -31,3 +23,12 @@
 <br/>
 tjorven_liebe<br/><br/>
 GitHub: <a href="https://github.com/Tjorven-Liebe/Tjorven-Liebe/discussions/">Discussions!</a>
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0006-5297-938X"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img src="https://img.shields.io/badge/My-ORCID-blue.svg?style=for-the-badge&"/>
+    </a>
