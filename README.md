@@ -1,5 +1,5 @@
 
-[![](https://visitcount.itsvg.in/api?id=tjorven-liebe&label=Views&color=12&icon=5&pretty=false)](https://github.com/Tjorven-Liebe)
+[![](https://visitcount.itsvg.in/api?id=tjorven-liebe&label=Views&color=6&icon=6&pretty=false)](https://github.com/Tjorven-Liebe)
 <a
     id="cy-effective-orcid-url"
     class="underline"
