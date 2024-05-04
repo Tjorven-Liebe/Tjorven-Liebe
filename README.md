@@ -7,10 +7,7 @@
      target="orcid.widget"
      rel="me noopener noreferrer"
      style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/> ORCID
+     <img src="https://img.shields.io/badge/My-ORCID-blue.svg"/>
     </a>
 <hr/>
 <p align="center">My GitHub stats<br/><br/><a href="https://github.com/arasgungore/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tjorven-Liebe&theme=matrix&margin-w=15&margin-h=15&column=-1&no-bg=true&no-frame=true&rank=-C"></a><br/><br/>These stats only include my public repositories</p>
