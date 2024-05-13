@@ -45,4 +45,6 @@ GitHub: <a href="https://github.com/Tjorven-Liebe/Tjorven-Liebe/discussions/">Di
     
 [![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=tjorvenliebe&api_domain=wakapi.tjorven-liebe.de&bg_color=0D1117&title_color=D8EDF3&icon_color=40C463&text_color=D8EDF3&custom_title=Week%20Stats&layout=compact)
+
 </div>
