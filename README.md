@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=tjorven-liebe&label=Views&color=6&icon=6&pretty=false)](https://github.com/Tjorven-Liebe) <br/>
 
 <hr/>
-<p align="center">My GitHub stats<br/><br/><a href="https://github.com/arasgungore/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tjorven-Liebe&theme=matrix&margin-w=15&margin-h=15&column=-1&no-bg=true&no-frame=true&rank=-C"></a><br/><br/>These stats only include my public repositories</p>
+<p align="center">My GitHub stats<br/><br/><a href="https://github.com/arasgungore/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tjorven-Liebe&theme=darkhub&margin-w=15&margin-h=15&column=-1&no-bg=true&no-frame=true&rank=-C"></a><br/><br/>These stats only include my public repositories</p>
 <dl><dd><dl><dl><dd><dl><dl><dd><dl>
 <!--<img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="right"/>
 <img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
@@ -10,7 +10,7 @@
 <div align=center>
 
 [![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)   [![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
