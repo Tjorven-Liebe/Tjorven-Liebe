@@ -41,6 +41,8 @@ tjorven_liebe<br/><br/>
 GitHub: <a href="https://github.com/Tjorven-Liebe/Tjorven-Liebe/discussions/">Discussions!</a>
 <hr />
 <h2>Additional Information</h2>
-
+<div align=center>
+    
 [![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+</div>
