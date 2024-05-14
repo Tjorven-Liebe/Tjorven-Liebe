@@ -9,15 +9,17 @@
 <!--<img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="right"/>
 <img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 -->
-<div align=center>
 
-[![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) &nbsp;&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/Tjorven-Liebe/github-stats/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<dl><dd><dl><dl><dd><dl><dl><dd><dl>
+<img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="right"/>
+<img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+<p align="center">These stats include my private repositories</p>
+</dl></dd></dl></dl></dd></dl></dl></dd></dl>
 
-</div>
 
 <div align=center>
     
-<a href="https://github.com/muety/wakapi"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tjorvenliebe&api_domain=wakapi.tjorven-liebe.de&bg_color=0D1117&title_color=40C463&icon_color=1D2229&text_color=8B949E&custom_title=Week%20Stats" width="700"/></a>
+<a href="https://github.com/muety/wakapi"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tjorvenliebe&api_domain=wakapi.tjorven-liebe.de&bg_color=0D1117&title_color=40C463&icon_color=1D2229&text_color=8B949E&custom_title=Week%20Stats" width="810"/></a>
 
 </div>
 <p align="center">These stats include my private repositories</p>
