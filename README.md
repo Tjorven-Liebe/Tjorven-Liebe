@@ -15,7 +15,7 @@
 
 <div align=center>
     
-![](https://github-readme-stats.vercel.app/api/wakatime?username=tjorvenliebe&api_domain=wakapi.tjorven-liebe.de&bg_color=0D1117&title_color=40C463&icon_color=1D2229&text_color=8B949E&custom_title=Week%20Stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tjorvenliebe&api_domain=wakapi.tjorven-liebe.de&bg_color=0D1117&title_color=40C463&icon_color=1D2229&text_color=8B949E&custom_title=Week%20Stats" width="700"/>
 
 </div>
 <p align="center">These stats include my private repositories</p>
