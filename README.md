@@ -42,3 +42,12 @@
 <br/>
 tjorven_liebe<br/><br/>
 GitHub: <a href="https://github.com/Tjorven-Liebe/Tjorven-Liebe/discussions/">Discussions!</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Tjorven-Liebe"
+    width="600"
+    height="120"
+  />
+</a>
+  
