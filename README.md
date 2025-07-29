@@ -21,14 +21,14 @@
 <p align="center">My Tech Stack</p>
 <dl><dd><dl><dl><dd><dl><dl><dd><dl>
 <p align="center"> 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp&nbsp
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white">&nbsp&nbsp
+<img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white">&nbsp&nbsp
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp&nbsp
+<img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white">&nbsp&nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp&nbsp
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white">&nbsp&nbsp
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp&nbsp
 </p>
 </dl></dd></dl></dl></dd></dl></dl></dd></dl>
 <p align="center">Services I use</p>
