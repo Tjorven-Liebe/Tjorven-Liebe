@@ -4,7 +4,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=tjorven-liebe&label=Views&color=6&icon=6&pretty=false)](https://github.com/Tjorven-Liebe) <br/>
 
-<p align="center">My GitHub stats<br/><br/><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tjorven-Liebe&theme=darkhub&margin-w=15&margin-h=15&column=-1&no-bg=true&no-frame=true&rank=-C"></a><br/><br/></p>
+<p align="center">My GitHub stats<br/>
+    <!--<br/><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tjorven-Liebe&theme=darkhub&margin-w=15&margin-h=15&column=-1&no-bg=true&no-frame=true&rank=-C"></a><br/><br/></p>
 <!--<img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="right"/>
 <img src="https://github.com/Tjorven-Liebe/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 -->
