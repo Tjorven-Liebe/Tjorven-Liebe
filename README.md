@@ -33,7 +33,7 @@
 <p align="center">Services I use</p>
 <dl><dd><dl><dl><dd><dl><dl><dd><dl>
 <p align="center">
-    <img src="https://img.shields.io/badge/IntelliJIDEA-E4219A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp&nbsp
+    <img src="https://img.shields.io/badge/Jetbrains IDE-E4219A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp&nbsp
     <img src="https://img.shields.io/badge/Redis Insight-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white">&nbsp&nbsp
     <img alt="tjorven_liebe" float="left" src="https://img.shields.io/badge/Discord-tjorven_liebe-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">&nbsp&nbsp
 </dl></dd></dl></dl></dd></dl></dl></dd></dl>
