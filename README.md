@@ -40,12 +40,4 @@
 
 <hr/>
 <br/>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Tjorven-Liebe"
-    width="600"
-    height="120"
-  />
-</a>
   
